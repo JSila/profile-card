@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "modularscale-sass": "^3.0.10",
+        "parcel-bundler": "^1.12.4",
+        "reset-css": "^5.0.1",
+        "sass": "^1.24.0"
+    },
+    "scripts":{
+        "start": "parcel src/index.html"
+    }
+}
